@@ -1,6 +1,6 @@
 # Completa los atajos de teclado:
 
 - (Ejemplo) Deshacer: ctrl + Z
-- Copiar línea hacia abajo: ???
-- Seleccionar siguiente y generar múltiples cursores: ???
-- Activar word-wrap: ???
+- Copiar línea hacia abajo: Cntrl+r
+- Seleccionar siguiente y generar múltiples cursores: Alt+d
+- Activar word-wrap: Alt+z
