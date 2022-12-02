@@ -1,0 +1,5 @@
+Modelos de desarrollo de software:
+-Cascada
+-En V
+-Espiral
+-prototipos
